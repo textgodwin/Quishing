@@ -1,0 +1,8 @@
+joblib
+flask
+numpy
+sklearn
+gunicorn
+nltk
+fastapi
+uvicorn
